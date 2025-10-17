@@ -11,8 +11,8 @@ Name: Noe Furrer
 
 ## Planung 17.10.2025
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] ..
+- [ ] ..
+- [ ] ..
 
 ## Tagesreflexion
