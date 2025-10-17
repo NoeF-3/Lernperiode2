@@ -15,8 +15,9 @@ Im Insgesammten möchte ich mein Coding optimieren und konsequent arbeiten.
 
 ## Planung 17.10.2025
 
-- [ ] Ein neues Projekt finden
-- [ ] ..
-- [ ] ..
+- [x] Ein neues Projekt finden
+      Ich werde einen Taschenrechner auf Visual Studio mit Windows Forms erstellen
+- [ ] Haupteigenschaften hinzufügen (Übersichtlichkeit, Additionen, Subtraktionen, Divisionen und Multiplikationen)
+- [ ] Lernen, Formen und Positionen auf einer UI zu coden
 
 ## Tagesreflexion
