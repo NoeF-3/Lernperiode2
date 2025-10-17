@@ -17,7 +17,7 @@ Im Insgesammten möchte ich mein Coding optimieren und konsequent arbeiten.
 
 - [x] Ein neues Projekt finden
       Ich werde einen Taschenrechner auf Visual Studio mit Windows Forms erstellen
+- [ ] Mit der UI und den Tools herumexperimentieren und mir ein Grundwissen/-überblick verschaffen
 - [ ] Haupteigenschaften hinzufügen (Übersichtlichkeit, Additionen, Subtraktionen, Divisionen und Multiplikationen)
-- [ ] Lernen, Formen und Positionen auf einer UI zu coden
 
 ## Tagesreflexion
