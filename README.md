@@ -17,7 +17,17 @@ Im Insgesammten möchte ich mein Coding optimieren und konsequent arbeiten.
 
 - [x] Ein neues Projekt finden
       Ich werde einen Taschenrechner auf Visual Studio mit Windows Forms erstellen
-- [ ] Mit der UI und den Tools herumexperimentieren und mir ein Grundwissen/-überblick verschaffen
-- [ ] Haupteigenschaften hinzufügen (Übersichtlichkeit, Additionen, Subtraktionen, Divisionen und Multiplikationen)
+- [x] Mit der UI und den Tools herumexperimentieren und mir ein Grundwissen/-überblick verschaffen
+- [x] Haupteigenschaften hinzufügen (Übersichtlichkeit, Additionen, Subtraktionen, Divisionen und Multiplikationen)
 
 ## Tagesreflexion
+Es lief heute gut. Ich konnte die gestellten Aufträge erledigen und dazu konnte ich noch Kommastellzahlen und einen "clear" Knopf hinzufügen
+
+## Planung 24.10.2025
+
+- [ ] Möglichkeit, Wuzeln zu ziehen und exponenten auszurechnen
+- [ ] Möglichkeit, an eine Zahl -/+ anzuhängen
+- [ ] Leiche Verbesserung an der anzeige (Es werden bisher nur Zahlen angezeigt, nicht die Operatoren)
+
+## Tagesreflexion
+
