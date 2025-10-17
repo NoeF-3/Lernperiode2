@@ -8,3 +8,11 @@ Name: Noe Furrer
 ### Veränderung
 ### Projekte / Neue Technologie
 ### Generelle Ziele
+
+## Planung 17.10.2025
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Tagesreflexion
