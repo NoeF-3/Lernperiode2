@@ -25,9 +25,19 @@ Es lief heute gut. Ich konnte die gestellten Aufträge erledigen und dazu konnte
 
 ## Planung 24.10.2025
 
-- [ ] Möglichkeit, Wuzeln zu ziehen und exponenten auszurechnen
-- [ ] Möglichkeit, an eine Zahl -/+ anzuhängen
-- [ ] Leiche Verbesserung an der anzeige (Es werden bisher nur Zahlen angezeigt, nicht die Operatoren)
+- [x] Möglichkeit, Wuzeln zu ziehen und exponenten auszurechnen
+- [x] Möglichkeit, an eine Zahl -/+ anzuhängen
+- [ ] Leiche Verbesserung an der Anzeige (Es werden bisher nur Zahlen angezeigt, nicht die Operatoren)
 
 ## Tagesreflexion
+Ich konnte zwei der Ziele erfüllen. Jedoch konnte ich die Anzeige beim Taschenrechner noch nicht wirklich verbessern, da ich Zeit für einige Debugs investieren musste.
+
+## Planung 31.10.2025
+
+- [ ] Leiche Verbesserung an der Anzeige (Es werden bisher nur Zahlen angezeigt, nicht die Operatoren)
+- [ ] Mehr Exponenten hinzufügen (x^y)
+- [ ] Ergebnisse abspeichern
+
+## Tagesreflexion
+Ich konnte zwei der Ziele erfüllen. Jedoch konnte ich die Anzeige beim Taschenrechner noch nicht wirklich verbessern, da ich Zeit für einige Debugs investieren musste.
 
