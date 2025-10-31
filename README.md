@@ -1,7 +1,7 @@
 # Lern-Periode 2
 Name: Noe Furrer
 
-17.10.2025 - 
+17.10.2025 - 19.12.2025
 
 ## Grobplannung
 ### Noten
