@@ -1,4 +1,4 @@
-# Lern-Periode 2
+# Lern-Periode 2.md
 Name: Noe Furrer
 
 17.10.2025 - 
