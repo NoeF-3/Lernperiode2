@@ -39,5 +39,5 @@ Ich konnte zwei der Ziele erfüllen. Jedoch konnte ich die Anzeige beim Taschenr
 - [ ] Ergebnisse abspeichern
 
 ## Tagesreflexion
-Ich konnte zwei der Ziele erfüllen. Jedoch konnte ich die Anzeige beim Taschenrechner noch nicht wirklich verbessern, da ich Zeit für einige Debugs investieren musste.
+
 
