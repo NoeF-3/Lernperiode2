@@ -34,10 +34,18 @@ Ich konnte zwei der Ziele erfüllen. Jedoch konnte ich die Anzeige beim Taschenr
 
 ## Planung 31.10.2025
 
-- [ ] Leiche Verbesserung an der Anzeige (Es werden bisher nur Zahlen angezeigt, nicht die Operatoren)
-- [ ] Mehr Exponenten hinzufügen (x^y)
-- [ ] Ergebnisse abspeichern
+- [x] Leichte Verbesserung an der Anzeige (Es werden bisher nur Zahlen angezeigt, nicht die Operatoren)
+- [x] Mehr Exponenten hinzufügen (x^y)
+- [x] Ergebnisse abspeichern und aufrufen
 
 ## Tagesreflexion
+Ich konnte alle Ziele erreichen und auch noch minimale Fehler beheben.
 
+## Planung 07.10.2025
+
+- [ ] Qualitative Verbesserungen (Übersichtlichekit, Funktionalität)
+- [ ] Gespeicherter wert verblasst in der Ausgabe anzeigen
+- [ ] Bugs beheben (z.B. Rechnet es nicht gut, wenn du zwei Mal einen Operatoren angibst)
+
+## Tagesreflexion
 
