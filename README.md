@@ -48,4 +48,13 @@ Ich konnte alle Ziele erreichen und auch noch minimale Fehler beheben.
 - [ ] Bugs beheben (z.B. Rechnet es nicht gut, wenn du zwei Mal einen Operatoren angibst)
 
 ## Tagesreflexion
+Ich habe heute kaum am Taschenrechner gearbeitet, da ich mit dem Gruppenprojekt beschäftigt war. Ich arbeite nächstes mal an den Zielen.
+
+## Planung 14.10.2025
+
+- [ ] Qualitative Verbesserungen (Übersichtlichekit, Funktionalität)
+- [ ] Gespeicherter wert verblasst in der Ausgabe anzeigen
+- [ ] Bugs beheben (z.B. Rechnet es nicht gut, wenn du zwei Mal einen Operatoren angibst)
+
+## Tagesreflexion
 
