@@ -61,8 +61,8 @@ Ich konnte die Ziele erreichen. Man kann nun die gespeicherten Zahlen sehen. Ich
 
 ## Planung 21.10.2025
 
-- [x] Zahleingabe mit Funktionen kürzen
-- [x] Rechnungsweise mit Funktionen kürzen
+- [ ] Zahleingabe mit Funktionen kürzen
+- [ ] Rechnungsweise mit Funktionen kürzen
 
 ## Tagesreflexion
 
