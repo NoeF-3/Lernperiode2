@@ -44,7 +44,7 @@ Ich konnte alle Ziele erreichen und auch noch minimale Fehler beheben.
 ## Planung 07.10.2025
 
 - [ ] Qualitative Verbesserungen (Übersichtlichekit, Funktionalität)
-- [ ] Gespeicherter wert verblasst in der Ausgabe anzeigen
+- [ ] Gespeicherter Wert verblasst in der Ausgabe anzeigen
 - [ ] Bugs beheben (z.B. Rechnet es nicht gut, wenn du zwei Mal einen Operatoren angibst)
 
 ## Tagesreflexion
@@ -52,9 +52,17 @@ Ich habe heute kaum am Taschenrechner gearbeitet, da ich mit dem Gruppenprojekt 
 
 ## Planung 14.10.2025
 
-- [ ] Qualitative Verbesserungen (Übersichtlichekit, Funktionalität)
-- [ ] Gespeicherter wert verblasst in der Ausgabe anzeigen
-- [ ] Bugs beheben (z.B. Rechnet es nicht gut, wenn du zwei Mal einen Operatoren angibst)
+- [x] Qualitative Verbesserungen (Übersichtlichekit, Funktionalität)
+- [x] Gespeicherter Wert verblasst in der Ausgabe anzeigen
+- [x] Bugs beheben (z.B. Rechnet es nicht gut, wenn du zwei Mal einen Operatoren angibst)
+
+## Tagesreflexion
+Ich konnte die Ziele erreichen. Man kann nun die gespeicherten Zahlen sehen. Ich konnte heute gut arbeiten. Ich habe heute mehr erreicht als an anderen Tagen. Warhscheinlich weil ich durch die zwei Zimmer von anderen Menschen weniger abgelenkt wurde. Ich mache nächtes genauso weiter.
+
+## Planung 21.10.2025
+
+- [x] Zahleingabe mit Funktionen kürzen
+- [x] Rechnungsweise mit Funktionen kürzen
 
 ## Tagesreflexion
 
