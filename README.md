@@ -61,8 +61,15 @@ Ich konnte die Ziele erreichen. Man kann nun die gespeicherten Zahlen sehen. Ich
 
 ## Planung 21.10.2025
 
-- [ ] Zahleingabe mit Funktionen kürzen
-- [ ] Rechnungsweise mit Funktionen kürzen
+- [x] Zahleingabe mit Funktionen kürzen
+- [x] Rechnungsweise mit Funktionen kürzen
+
+## Tagesreflexion
+Ich konnte die Funktionen anwenden. Vieles habe ich schon verstanden, einige Zeilen code habe ich mir von KI und anderen Internetseiten erklären lassen. Heute lief es gut, ich hatte auch noch Zeit für das IMS-Projekt, bei dem wir geometrische Formenrechner machen. Da lief es auch gut und ich kam gut voran. Ich liess mich dazu auch nicht ablenken.
+
+## Planung 28.10.2025
+
+- [ ] IMS-Projekt arbeiten (Präsentation vorbereiten)
 
 ## Tagesreflexion
 
