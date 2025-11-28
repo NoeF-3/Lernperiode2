@@ -69,7 +69,7 @@ Ich konnte die Funktionen anwenden. Vieles habe ich schon verstanden, einige Zei
 
 ## Planung 28.11.2025
 
-- [ ] IMS-Projekt arbeiten (Präsentation vorbereiten)
+- [x] IMS-Projekt arbeiten (Präsentation vorbereiten)
 
 ## Tagesreflexion
 
