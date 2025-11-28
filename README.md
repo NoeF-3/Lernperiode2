@@ -41,7 +41,7 @@ Ich konnte zwei der Ziele erfüllen. Jedoch konnte ich die Anzeige beim Taschenr
 ## Tagesreflexion
 Ich konnte alle Ziele erreichen und auch noch minimale Fehler beheben.
 
-## Planung 07.10.2025
+## Planung 07.11.2025
 
 - [ ] Qualitative Verbesserungen (Übersichtlichekit, Funktionalität)
 - [ ] Gespeicherter Wert verblasst in der Ausgabe anzeigen
@@ -50,7 +50,7 @@ Ich konnte alle Ziele erreichen und auch noch minimale Fehler beheben.
 ## Tagesreflexion
 Ich habe heute kaum am Taschenrechner gearbeitet, da ich mit dem Gruppenprojekt beschäftigt war. Ich arbeite nächstes mal an den Zielen.
 
-## Planung 14.10.2025
+## Planung 14.11.2025
 
 - [x] Qualitative Verbesserungen (Übersichtlichekit, Funktionalität)
 - [x] Gespeicherter Wert verblasst in der Ausgabe anzeigen
@@ -59,7 +59,7 @@ Ich habe heute kaum am Taschenrechner gearbeitet, da ich mit dem Gruppenprojekt 
 ## Tagesreflexion
 Ich konnte die Ziele erreichen. Man kann nun die gespeicherten Zahlen sehen. Ich konnte heute gut arbeiten. Ich habe heute mehr erreicht als an anderen Tagen. Warhscheinlich weil ich durch die zwei Zimmer von anderen Menschen weniger abgelenkt wurde. Ich mache nächtes genauso weiter.
 
-## Planung 21.10.2025
+## Planung 21.11.2025
 
 - [x] Zahleingabe mit Funktionen kürzen
 - [x] Rechnungsweise mit Funktionen kürzen
@@ -67,9 +67,18 @@ Ich konnte die Ziele erreichen. Man kann nun die gespeicherten Zahlen sehen. Ich
 ## Tagesreflexion
 Ich konnte die Funktionen anwenden. Vieles habe ich schon verstanden, einige Zeilen code habe ich mir von KI und anderen Internetseiten erklären lassen. Heute lief es gut, ich hatte auch noch Zeit für das IMS-Projekt, bei dem wir geometrische Formenrechner machen. Da lief es auch gut und ich kam gut voran. Ich liess mich dazu auch nicht ablenken.
 
-## Planung 28.10.2025
+## Planung 28.11.2025
 
 - [ ] IMS-Projekt arbeiten (Präsentation vorbereiten)
 
 ## Tagesreflexion
+
+Ich konnte heute die Präsentation ein wenig vorbereiten. Dazu habe ich die "Kundin" für das Projekt mit der Applikation gemailt und nach einem Feedback gefragt. Heute ging es gut, jedoch bin ich mir nicht ganz sicher, was ich in der Lernperiode noch machen will, da ich den Taschenrechner schon sehr ausgeschöpft habe.
+
+## Planung 05.12.2025
+
+- [ ] Neues Projekt für die Lernperiode finden und Ziele dazu setzen
+
+## Tagesreflexion
+
 
