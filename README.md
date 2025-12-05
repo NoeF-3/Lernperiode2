@@ -77,7 +77,17 @@ Ich konnte heute die Präsentation ein wenig vorbereiten. Dazu habe ich die "Kun
 
 ## Planung 05.12.2025
 
-- [ ] Neues Projekt für die Lernperiode finden und Ziele dazu setzen
+- [x] Neues Projekt für die Lernperiode finden und Ziele dazu setzen
+
+## Tagesreflexion
+
+Ich habe mich dazu entschieden, ein Spiel auf Unity mit C# zu machen. Dafür habe ich heute ein bisschen die Funktionen von Unity kennengelernt. Es war teils ein wenig verwirrend, doch ich konnte mir doch noch die Grundlagen beibringen. Danach fuhr ich mit Blender fort, bei dem ich ebenfalls ein bisschen Wissen anschaffte. Ich konnte jedoch noch kein echtes Spielkonzept finden. Die Arbeitsgeschwindigkeit wurde durch's herunterladen, updaten, etc. ein weniger gehindert. Nächstes Mal möchte ich mehr voran kommen.
+
+## Planung 12.12.2025
+
+- [ ] Spielkonzept finden
+- [ ] Leichte Steuerung programmieren (WASD)
+- [ ] Einfachste Interaktionen mit Objekten einfügen.
 
 ## Tagesreflexion
 
