@@ -85,10 +85,17 @@ Ich habe mich dazu entschieden, ein Spiel auf Unity mit C# zu machen. Dafür hab
 
 ## Planung 12.12.2025
 
-- [ ] Spielkonzept finden
-- [ ] Leichte Steuerung programmieren (WASD)
+- [x] Spielkonzept finden
+- [x] Leichte Steuerung programmieren (WASD)
 - [ ] Einfachste Interaktionen mit Objekten einfügen.
 
 ## Tagesreflexion
+Ich habe Zuhause das Programm auf meinem Computer angefangen: Ich habe eine Figur mit vier Perspektiven (vorne, hinten, rechts, links) gezeichnet und eine Lauffunktion eingefügt. Ich habe das Programm noch nicht mit dem Laptop geteilt, demnach konnte ich noch nicht weitere Funktionen einbauen. Ich weiss noch nicht genau, wohin es hingehen wird, aber es wird eine semi-open world story game in pixel artstyle. Ich habe heute meine Zeit damit verbracht, mehrere Funktionen zu lernen und in ein Testprogramm zu inplementieren. Ich konnte heute dezent arbeiten, die letzten zwei Tage gingen besser. 
 
+## Planung 19.12.2025
 
+- [ ] Herausfinden, in welche Richtung die Geschichte geht
+- [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
+- [ ] Einfachste Interaktionen mit Objekten einfügen.
+
+## Tagesreflexion
