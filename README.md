@@ -98,7 +98,7 @@ Ich habe Zuhause das Programm auf meinem Computer angefangen: Ich habe eine Figu
 - [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
 - [ ] Einfachste Interaktionen mit Objekten einfügen.
 
-## Tagesreflexion
+# Tagesreflexion
 Ich habe sehr viel Zeit damit verbraucht, einen Fehler zu beheben, der bewirkte, dass ich nicht laufen konnte. Danach machte ich mich an die Interaktionen mit Objekten: Ich wollte eine Truhe machen, die sich öffnen lässt. Bisher war es erfolgslos; Selbst mit KI konnte ich den Code noch nicht zum laufen bringen. Dafütr habe ich das Spielkonzept ausarbeiten können und weiss, wohin die Geschichte gehen solle. Es ist frustrierend, dass ich es noch nicht beheben konnte, und ich werde definitiv in der nächsten Lernperiode daran arbeiten.
 
 ## Reflexion Lernperiode
