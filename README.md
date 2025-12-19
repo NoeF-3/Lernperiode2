@@ -101,6 +101,6 @@ Ich habe Zuhause das Programm auf meinem Computer angefangen: Ich habe eine Figu
 # Tagesreflexion
 Ich habe sehr viel Zeit damit verbraucht, einen Fehler zu beheben, der bewirkte, dass ich nicht laufen konnte. Danach machte ich mich an die Interaktionen mit Objekten: Ich wollte eine Truhe machen, die sich öffnen lässt. Bisher war es erfolgslos; Selbst mit KI konnte ich den Code noch nicht zum laufen bringen. Dafütr habe ich das Spielkonzept ausarbeiten können und weiss, wohin die Geschichte gehen solle. Es ist frustrierend, dass ich es noch nicht beheben konnte, und ich werde definitiv in der nächsten Lernperiode daran arbeiten.
 
-## Reflexion Lernperiode
+# Reflexion Lernperiode
 Die Lernperiode war eher dezent. Oft fehlte die Konzentration und Konsequenz, dann gab es paar mal Fehler, die mir viel Zeit genommen haben. Der Taschenrechner an sich hat mich jetzt auch nicht gepackt. Wenigstens arbeite ich mit dem neuen Spiel nun an einem Projekt, dass mich auch interessiert, trotzdem ist es momentan ein wenig frustrierend. Nächste Lernperiode will ich unbedingt mehr vorankommen und das Spiel auch beenden.
 Insgesammt denke ich, dass die Lernperiode ein wenig schlechter als die zuvor war, aber dennoch kein kompletter Reinfall.
